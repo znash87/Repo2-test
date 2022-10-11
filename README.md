@@ -3,7 +3,7 @@
 
 git init
 git status
-git add
+git add .
 git commit -m "" -m ""
 git remote add master git@
 git remote -v
